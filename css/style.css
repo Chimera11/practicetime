@@ -1,5 +1,7 @@
 body{
   text-align: center;
+  font-family: helvetica;
+
 }
  .home, .bottom{
   background-image: url("./the-flatiron-building.jpg");
@@ -8,4 +10,21 @@ body{
 }
 h1, h2{
   color: white;
+}
+.footer{
+  background-color: darkgrey;
+}
+.nav, .footer{
+  text-align: left;
+  color: white;
+  font-weight: bold;
+}
+#process{
+  color: black;
+}
+h1, h2, h3{
+  font-weight: bold;
+}
+h1{
+  font-size: 60px;
 }
