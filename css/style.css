@@ -1,7 +1,11 @@
 body{
   text-align: center;
 }
-#banner, .home{
+ .home, .bottom{
   background-image: url("./the-flatiron-building.jpg");
   background-position: center;
+  background-size: cover;
+}
+h1, h2{
+  color: white;
 }
